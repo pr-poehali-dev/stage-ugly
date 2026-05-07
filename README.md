@@ -1,3 +1,3 @@
-# default-project
+# stage-ugly
 
-Initial repository setup for pr-poehali-dev/default-project
+Initial repository setup for pr-poehali-dev/stage-ugly
